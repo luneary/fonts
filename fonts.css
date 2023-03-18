@@ -1,0 +1,179 @@
+@font-face {
+    font-family: one v1;
+    src: url("../c/Amiamie-Black.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: one v2;
+    src: url("../c/Amiamie-BlackItalic.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: one v3;
+    src: url("../c/Amiamie-BlackItalicRound.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: one v4;
+    src: url("../c/Amiamie-BlackRound.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: one v5;
+    src: url("../c/Amiamie-Italic.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: one v6;
+    src: url("../c/Amiamie-ItalicRound.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: one v7;
+    src: url("../c/Amiamie-Light.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: one v8;
+    src: url("../c/Amiamie-LightItalic.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: one v9;
+    src: url("../c/Amiamie-Regular.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: one v10;
+    src: url("../c/Amiamie-RegularRound.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: two;
+    src: url("../c/BagdollDisplay-Regular.otf") format('truetype');
+}
+
+@font-face {
+    font-family: three;
+    src: url("../c/Checkmate Typeface.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: four;
+    src: url("../c/Chuby Style Font Demo by Keithzo.otf") format('truetype');
+}
+
+@font-face {
+    font-family: five;
+    src: url("../c/Equilla.otf") format('truetype');
+}
+
+@font-face {
+    font-family: six v1;
+    src: url("../c/GOMini-Goofy.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: six v2;
+    src: url("../c/GOMini-GoofyOutline.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: six v3;
+    src: url("../c/Gromer-Outline.otf") format('truetype');
+}
+
+@font-face {
+    font-family: seven v1;
+    src: url("../c/Ike.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: seven v2;
+    src: url("../c/IkeBold.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: eight v1;
+    src: url("../c/NT Somic-VF.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: eight v2;
+    src: url("../c/NTSomic-Bold.otf") format('truetype');
+}
+
+@font-face {
+    font-family: eight v3;
+    src: url("../c/NTSomic-Medium.otf") format('truetype');
+}
+
+@font-face {
+    font-family: eight v4;
+    src: url("../c/NTSomic-Regular.otf") format('truetype');
+}
+
+@font-face {
+    font-family: nine;
+    src: url("../c/Pilowlava-Regular.otf") format('truetype');
+}
+
+@font-face {
+    font-family: ten;
+    src: url("../c/TheNightWatch.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: eleven v1;
+    src: url("../c/UltraSquared-Shadow.otf") format('truetype');
+}
+
+@font-face {
+    font-family: eleven v2;
+    src: url("../c/UltraSquared-Solid.otf") format('truetype');
+}
+
+@font-face {
+    font-family: eleven v3;
+    src: url("../c/UltraSquared-outlines.otf") format('truetype');
+}
+
+@font-face {
+    font-family: twelve v1;
+    src: url("../c/Venus+Acier.otf") format('truetype');
+}
+
+@font-face {
+    font-family: twelve v2;
+    src: url("../c/Venus+Carrare.otf") format('truetype');
+}
+
+@font-face {
+    font-family: twelve v3;
+    src: url("../c/Venus+Cormier.otf") format('truetype');
+}
+
+@font-face {
+    font-family: twelve v4;
+    src: url("../c/Venus+Martre.otf") format('truetype');
+}
+
+@font-face {
+    font-family: twelve v5;
+    src: url("../c/Venus+Plomb.otf") format('truetype');
+}
+
+@font-face {
+    font-family: thirteen;
+    src: url("../c/ZT Yaglo Thin.otf") format('truetype');
+}
+
+@font-face {
+    font-family: fourteen;
+    src: url("../c/le-murmure.otf") format('truetype');
+}
+
+@font-face {
+    font-family: fifteen;
+    src: url("../c/rogre.otf") format('truetype');
+}
