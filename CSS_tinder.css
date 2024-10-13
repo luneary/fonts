@@ -1,0 +1,179 @@
+/*----- DATE PROFILE -----*/
+.SOB_dateapp {
+    margin:auto;
+    width:648px;
+    height:415px;
+    display: flex;
+    background: var(--bg3);
+    border-radius: 10px;
+    padding: 10px;
+    border: 2px solid var(--bg3);
+    outline: 1px solid var(--bg3);
+    color:var(--text2);
+    outline-offset: 5px;
+}
+
+.SOB_dateappleft {
+    width: 300px;
+    display: flex;
+    flex-wrap:wrap;
+}
+.SOB_dateapplelefttop{
+    width:300px;
+    display:flex;
+}
+.SOB_dateappright {
+    display: grid;
+    width: 324px;
+}
+.SOB_dateappleleftbot{
+
+    position:relative;
+    top:-50px;
+    margin-bottom:-50px;
+    display:flex;
+    flex-wrap: wrap;
+    width:286px;
+    margin-left:4px;
+    height:80px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.SOB_dateimg{
+    border:8px solid var(--bg2);
+    position: relative;
+    object-fit: cover;
+    border-radius: 100px;
+    height: 130px;
+    margin-top:15px;
+    margin-left:30px;
+    width: 130px;
+}
+
+.SOB_datebubble{
+    color: var(--text2);
+    background: var(--bg2);
+    height:fit-content;
+    position:relative;
+    right:30px;
+    top:10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.SOB_datebubble::after {
+    content: '';
+    background: var(--bg2);
+    position: relative;
+    left: 20px;
+    top: 50px;
+    height:50px;
+    width:50px;
+    display:block;
+    margin-top:-50px;
+    clip-path: polygon(31% 0, 12% 49%, 100% 0);
+}
+
+dname {
+    position: relative;
+    top:-25px;
+    background:var(--bg2);
+    padding:0px 10px;
+    border-radius:4px;
+    color: var(--color3);
+ font-size: 16px;
+    font-weight: bold;
+    margin-right: 10px
+}
+
+dage {
+    display:block;
+
+    width:286px;
+text-align:right;
+}
+
+dloc {display:block;
+       width:286px;
+text-align:right;
+    
+}
+
+dloc::before {
+    content: '\eb68';
+    font-family: 'cappuccicons';
+    margin-right: 5px;
+    font-style: normal;
+}
+
+.SOB_dateappright span {
+    text-align: left;
+    height: fit-content;
+    width:310px;
+    padding: 15px 0px;
+    background: var(--bg2);
+    display: flex;
+    margin: 5px 10px;
+    border-radius: 4px;
+    flex-direction: row;
+    align-items: center;
+}
+
+.SOB_dateappright i {
+    display: flex;
+    color: #fff;
+    background: -webkit-linear-gradient(45deg, var(--color1), var(--color2));
+    padding:7px;
+    height:30px;
+    width:30px;
+    border-radius: 20px;
+    margin: 0px 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.SOB_dateappright b {
+    color: var(--color2);
+    margin: 0px 4px;
+    font-size: 14px;
+    font-weight: bolder
+}
+
+dloc {
+    opacity: .8;
+    font-style: italic;
+}
+.SOB_datephotos{top:-6px;position:relative;display:flex;flex-wrap: wrap;flex-direction: row;}
+.SOB_datephotos img{
+    margin:0px 4px;
+    width:90px;
+    height:90px;
+    border-radius:4px;
+    animation:none;
+    
+}
+
+/*----- DATE SIDEPOSTS -----*/
+
+.SOB_dateapp2 {
+    margin:auto;
+    width:370px;
+    display: flex;
+    background: var(--bg3);
+    border-radius: 10px;
+    padding: 10px;
+    border: 2px solid var(--bg3);
+    outline: 1px solid var(--bg3);
+    color:var(--text2);
+    outline-offset: 5px;
+    align-content: center;
+    align-items: center;
+}
+.SOB_dateapp2 b{background:var(--bg2);padding:0px 6px;border-radius:4px;font-size:14px;margin-right:4px;}
+.SOB_dateapp2 b:hover{background:var(--bg3)}
+.SOB_dateapp2 i{color:#fff;margin-right:10px;width:fit-content;padding:5px;border-radius:4px;}
+.SOB_dateapp2 .cp-heart-o{background:#c75d5d}
+.SOB_dateapp2 .cp-cross{background:#be7440}
+.SOB_dateapp2 .cp-star-o{background:#9468d3}
+.SOB_dateapp2 .cp-stars-o{background:#5dc07c}
